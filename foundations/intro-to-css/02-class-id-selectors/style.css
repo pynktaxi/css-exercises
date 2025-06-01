@@ -1,0 +1,26 @@
+p {
+    background-color: #f6a3ed;
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+
+#cool {
+    color: #7bb8e1;
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+.fourth {
+    background-color: #c4d78d;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/*
+    Could have combined .third and .fourth to share a class, because they have the same font-size
+    Solution also did give the <p>'s a class, calling them odd (I didn't because only the p's were affected)
+
+    Solution assigned id's instead of classes to third and fourth
+*/

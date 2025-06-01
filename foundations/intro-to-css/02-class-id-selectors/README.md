@@ -20,6 +20,11 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 
 
 ### Self Check
-- Do the odd numbered `p` elements share a class?
+- Do the odd numbered `p` elements share a class? 
+  *  @ I intentionally skipped this, because ONLY p's were odd.  If there was a 6th line, where p was used, then I would've used a class.  
+    Imagine classes are just a best practice for when the code will be larger?
 - Do the even numbered `div` elements have unique IDs?
+  *  No, I used a class for fourth, and that worked fine.
+  * @ I am unclear on the different use cases for when to use an id vs. a class, this might clear up in a larger scope.
 - Does the Number 3 element have multiple classes?
+  * Again no, bc I skipped the class for odd - but I understand why it would be useful if p was also even.
