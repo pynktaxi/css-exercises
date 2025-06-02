@@ -1,0 +1,18 @@
+/*
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+    */
+
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* including two types of solutions
+just learned that yes you can combine .class <type> either direction*/
