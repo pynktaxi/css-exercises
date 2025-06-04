@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
 
 img {
@@ -26,8 +27,17 @@ img {
 }
 
 .wiki {
-
+  display: flex;
+  margin: 32px 10px;
+  flex-flow: row wrap;
+  gap: 52px;
+  justify-content: center;
 }
 .entry {
-
+  display: flex;
+  flex-flow: column wrap;
+  width: 200px;
+  align-items: center;
+  justify-content: baseline;
+  flex: 0 0 1;
 }
